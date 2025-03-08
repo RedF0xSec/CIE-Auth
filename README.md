@@ -77,8 +77,4 @@ The project includes **bash scripts** simulating interactions between the user, 
 ## Future Enhancements
 - **Decentralized server architecture** for improved resilience
 - **Blockchain integration** for enhanced transparency
-- **Advanced fraud detection mechanisms** using AI
-
-## Contact
-For questions or contributions, please contact **Elena Falcone** at [elenafalcone2001@gmail.com].
 
